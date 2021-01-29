@@ -1,5 +1,5 @@
 package model2;
 
-public class OggettoDelMondo {
+public class ElementoMondo {
     public void chiediAiuto() { }
 }
